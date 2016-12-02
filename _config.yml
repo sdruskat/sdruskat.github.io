@@ -1,12 +1,11 @@
 # Note: If you want to deploy to a GitHub user site (user.github.io), change baseurl to /
-baseurl: /tufte-css-jekyll
-title: tufte-css-jekyll
+title: Stephan Druskat
 # Whether the header (with large title and subtitle) should be displayed
-header: true
-subtitle: A Jekyll theme based on tufte-css
+header: false
+subtitle: Personal website
 author: Stephan Druskat
 email: mail [at] sdruskat [dot]
-description: A Jekyll theme based on tufte-css
+description: Homepage of Stephan Druskat, Research Software Engineer from Berlin
 markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 highlighter: rouge
