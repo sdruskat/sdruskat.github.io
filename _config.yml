@@ -21,3 +21,10 @@ page:
   extension: md
 git:
   branch: src
+scholar:
+  style: _bibliography/custom_ieee.csl
+  bibliography: ../assets/bibtex/druskat.bib
+  sort_by: year, month
+  order: descending
+  bibliography_template: bib
+gems: ['jekyll/scholar']
