@@ -30,6 +30,10 @@ I live in Berlin, Germany, with my wife and three children.
 
 {% bibliography %}
 
+## Activities
+
+**Program Chair and Co-organizer**, "Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE5.1)", University of Manchester, Manchester, UK, 6 September 2017. ([Website](http://wssspe.researchcomputing.org.uk/wssspe5-1/), [Proceedings](https://doi.org/10.6084/m9.figshare.c.3869782))
+
 ## Grants
 
 I have received a *non-competitive* travel award for [WSSSPE4](http://wssspe.researchcomputing.org.uk/wssspe4/) (2016, Manchester, UK; US$ 1,000). I have also won a *competitive* travel stipend for [DHd 2017](www.dhd2017.ch) (2017, Bern, Switzerland; CHF 700).
