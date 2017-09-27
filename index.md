@@ -22,7 +22,7 @@ As a consultant, I also develop software for research projects such as [TraCES](
 
 My primary research interest is the technical sustainability of research software, its measurement and documentation. Further academic interest includes research data management, especially the long-term availability and reusability of linguistic research data.
 
-I support the emerging association of Research Software Engineers in Germany, [deRSE](http://de-rse.org).
+I am a member of the association of Research Software Engineers in Germany, [deRSE](http://de-rse.org) and part of the [WSSSPE community](http://wssspe.researchcomputing.org.uk/).
 
 I live in Berlin, Germany, with my wife and three children.
 
