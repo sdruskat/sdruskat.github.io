@@ -22,6 +22,7 @@ bundle exec jekyll build
 
 # push
 cd _site
+echo "sdruskat.net" > CNAME
 git config user.email "travis-ci@sdruskat.net"
 git config user.name "Travis CI"
 git add --all
