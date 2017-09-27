@@ -1,6 +1,6 @@
 ---
 ---
-{{ reference }} 
+{{ reference | replace_first: 'S. Druskat', '<b>S. Druskat</b>' }} 
 {% if entry.url %}
 Available at: <a class="citelink" href="{{ entry.url }}">{{ entry.url }}</a>.
 {% endif %}

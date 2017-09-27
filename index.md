@@ -26,6 +26,16 @@ I support the emerging association of Research Software Engineers in Germany, [d
 
 I live in Berlin, Germany, with my wife and three children.
 
+## Projects
+
+- [research-software.org](http://www.research-software.org): A collection of publications in the context of my PhD project on research software sustainability.
+- [ToolboxTextModules](https://scm.cms.hu-berlin.de/druskats/toolbox-text-importer): [Pepper](http://corpus-tools.org/pepper) modules for the linguistic [Toolbox](https://software.sil.org/toolbox/) text format.
+- {% icon fa-github %} [GeTaModules](https://github.com/sdruskat/pepperModules-GeTaModules): [Pepper](http://corpus-tools.org/pepper) modules for the JSON format exported from the GeTa annotation tool for Ethiopic.
+- [(Hex)Atomic](http://corpus-tools.org/atomic): An extensible platform for linguistic multi-layer corpus annotation.
+- {% icon fa-github %} [Pepper Grinder](https://github.com/sdruskat/pepper-grinder): A cross-platform GUI for [Pepper](http://corpus-tools.org/pepper)-based workflows and conversion. 
+- [Citation File Format (CFF)](http://sdruskat.net/citation-file-format): A machine- and human-readable, YAML-based format for the provision of citation information for (research) software.
+- {% icon fa-github %} [Tufte CSS Jekyll](http://sdruskat.net/tufte-css-jekyll): A [Jekyll](http://jekyllrb.com/) theme based on [Tufte CSS](https://edwardtufte.github.io/tufte-css/), which in turn is built around Edward Tufte's ideas for typesetting maximally readable documents.
+
 ## Publications
 
 {% bibliography %}
