@@ -14,7 +14,7 @@ rm -rf _site
 mkdir _site
 
 # clone remote repo to "_site"
-git clone https://${GITHUB_TOKEN}@github.com/sdruskat/sdruskat.github.io.git --branch gh-pages _site
+git clone https://${GITHUB_TOKEN}@github.com/sdruskat/sdruskat.github.io.git --branch master _site
 
 # build with Jekyll into "_site"
 gem install jekyll-scholar
