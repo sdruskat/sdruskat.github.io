@@ -28,5 +28,4 @@ scholar:
   bibliography_template: bib
 plugins: 
   - 'jekyll/scholar'
-  - 'unicode'
-  - 'activesupport'
+#  - 'activesupport'
