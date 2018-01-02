@@ -19,7 +19,7 @@ git clone https://${GITHUB_TOKEN}@github.com/sdruskat/sdruskat.github.io.git --b
 # build with Jekyll into "_site"
 gem install jekyll-scholar
 gem install unicode
-gem install active_support
+gem install activesupport
 bundle exec jekyll build
 
 # push
