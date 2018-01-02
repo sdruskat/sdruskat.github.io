@@ -18,7 +18,7 @@ git clone https://${GITHUB_TOKEN}@github.com/sdruskat/sdruskat.github.io.git --b
 
 # build with Jekyll into "_site"
 gem install jekyll-scholar
-bundle exec jekyll build
+jekyll build
 
 # push
 cd _site
