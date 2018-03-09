@@ -46,7 +46,7 @@ I live in Berlin, Germany, with my wife and three children.
 
 ## Grants
 
-I have received a *non-competitive* travel award for [WSSSPE4](http://wssspe.researchcomputing.org.uk/wssspe4/) (2016, Manchester, UK; US$ 1,000). I have also won a *competitive* travel stipend for [DHd 2017](www.dhd2017.ch) (2017, Bern, Switzerland; CHF 700).
+I have received a *non-competitive* travel award for [WSSSPE4](http://wssspe.researchcomputing.org.uk/wssspe4/) (2016, Manchester, UK; US$ 1,000). I have also won *competitive* travel stipends for [DHd 2017](http://www.dhd2017.ch) (2017, Bern, Switzerland; CHF 700) and [DHd 2018](http://dhd2018.uni-koeln.de/) (2018, Cologne, Germany; EUR 400).
 
 ## CV  
 
