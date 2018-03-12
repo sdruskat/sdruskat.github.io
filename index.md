@@ -49,7 +49,7 @@ I live in Berlin, Germany, with my wife and three children.
 
 ### Others
 
-- **Co-Convenor**, *Digital Humanities im deutschsprachigen Raum* Working Group "Research Software Engineering in den Digital Humanities (DH-RSE)". [Website](https://dh-rse.github.io/)
+- **Co-Convenor**, *Digital Humanities im deutschsprachigen Raum* Working Group "Research Software Engineering in den Digital Humanities (DH-RSE)". ([Website](https://dh-rse.github.io/))
 
 ## Grants
 
