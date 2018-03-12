@@ -6,4 +6,5 @@ group :jekyll_plugins do
 	gem 'rake'
 	gem 'jekyll-scholar'
 	gem 'activesupport'
+	gem 'unicode_utils'
 end
