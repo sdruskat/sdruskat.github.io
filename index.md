@@ -42,7 +42,14 @@ I live in Berlin, Germany, with my wife and three children.
 
 ## Activities
 
-**Program Chair and Co-organizer**, "Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE5.1)", University of Manchester, Manchester, UK, 6 September 2017. ([Website](http://wssspe.researchcomputing.org.uk/wssspe5-1/), [Proceedings](https://doi.org/10.6084/m9.figshare.c.3869782))
+### Chairs
+
+- **Co-Chair**, Workshop "Research Software Engineering und Digital Humanities. Reflexion, Kartierung, Organisation." Digital Humanities im deutschsprachigen Raum Konferenz 2018, University of Cologne, Cologne, Germany, 27 February 2018. ([Website](https://dh-rse.github.io/dhd-workshop-2018/), [Abstract in Conference book of abstracts](http://dhd2018.uni-koeln.de/wp-content/uploads/boa-DHd2018-web-ISBN.pdf))
+- **Program Chair and Co-organizer**, "Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE5.1)", University of Manchester, Manchester, UK, 6 September 2017. ([Website](http://wssspe.researchcomputing.org.uk/wssspe5-1/), [Proceedings](https://doi.org/10.6084/m9.figshare.c.3869782))
+
+### Others
+
+- **Co-Convenor**, *Digital Humanities im deutschsprachigen Raum* Working Group "Research Software Engineering in den Digital Humanities (DH-RSE)". [Website](https://dh-rse.github.io/)
 
 ## Grants
 
