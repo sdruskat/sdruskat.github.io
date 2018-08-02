@@ -8,7 +8,7 @@ weight: 1
 
 {% marginnote 'Details' 'Dept. of German Studies and Linguistics, Humboldt-Universität zu Berlin  
 *Email*: cf. <http://hu.berlin/sdruskat>{: .citelink}  
-*Office*: Dorotheenstr. 24, room 3.311  
+*Office*: Dorotheenstr. 24, room 3.410  
 *Phone*: +49-(0)30-2093-9726  
 *Postal address*: Unter den Linden 6, 10099 Berlin, Germany' %}
 
