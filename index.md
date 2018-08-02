@@ -20,40 +20,61 @@ In the past, I have worked as a researcher in the linguistic research project [L
 
 As a consultant, I also develop software for research projects such as [TraCES](https://www.traces.uni-hamburg.de/) (late-antiquity to medieval Ethiopic) and [GiesKaNe](https://gieskane.com/) (basic syntactic structures of New High German).
 
-My primary research interest is the technical sustainability of research software, its measurement and documentation. Further academic interest includes research data management, especially the long-term availability and reusability of linguistic research data.
+My primary research interest is the research software sustainability, with a current focus on
+software citation and credit.
 
-I am a member of the association of Research Software Engineers in Germany, [deRSE](http://de-rse.org) and part of the [WSSSPE community](http://wssspe.researchcomputing.org.uk/).
+I am a member of the *association of Research Software Engineers in Germany*, [deRSE](http://de-rse.org) and part of the [community *Working towards Sustainable Software for Science: Practice and Experiences, WSSSPE*](http://wssspe.researchcomputing.org.uk/). I am also co-convenor of the [*Research Software
+Engineering Working Group at DHd*](http://dig-hum.de/ag-research-software-engineering-den-digital-humanities).
 
 I live in Berlin, Germany, with my wife and three children.
 
 ## Projects
 
-- [research-software.org](http://www.research-software.org): A collection of publications in the context of my PhD project on research software sustainability.
-- [ToolboxTextModules](https://scm.cms.hu-berlin.de/druskats/toolbox-text-importer): [Pepper](http://corpus-tools.org/pepper) modules for the linguistic [Toolbox](https://software.sil.org/toolbox/) text format.
+- {% icon fa-github %} [resosuma](https://github.com/research-software/resosuma): A Python 3 package
+for modeling the research software sustainability space.
+- [cite.research-software.org](https://cite.research-software.org): A software citation portal.
+- {% icon fa-github %} [ToolboxTextModules](https://github.com/sdruskat/pepperModules-ToolboxTextModules): [Pepper](http://corpus-tools.org/pepper) modules for the linguistic [Toolbox](https://software.sil.org/toolbox/) text format.
 - {% icon fa-github %} [GeTaModules](https://github.com/sdruskat/pepperModules-GeTaModules): [Pepper](http://corpus-tools.org/pepper) modules for the JSON format exported from the GeTa annotation tool for Ethiopic.
 - [(Hex)Atomic](http://corpus-tools.org/atomic): An extensible platform for linguistic multi-layer corpus annotation.
 - {% icon fa-github %} [Pepper Grinder](https://github.com/sdruskat/pepper-grinder): A cross-platform GUI for [Pepper](http://corpus-tools.org/pepper)-based workflows and conversion. 
 - [Citation File Format (CFF)](http://sdruskat.net/citation-file-format): A machine- and human-readable, YAML-based format for the provision of citation information for (research) software.
 - {% icon fa-github %} [Tufte CSS Jekyll](http://sdruskat.net/tufte-css-jekyll): A [Jekyll](http://jekyllrb.com/) theme based on [Tufte CSS](https://edwardtufte.github.io/tufte-css/), which in turn is built around Edward Tufte's ideas for typesetting maximally readable documents.
 
+
 ## Publications
 
 {% bibliography %}
+
+## Talks
+
+{% bibliography --file talks --style apa-5th-edition %}
 
 ## Activities
 
 ### Chairs
 
+- **Organizing Co-Chair**, "Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE6.1)", IEEE eScience 2018, Amsterdam, Netherlands, 29 October 2018. ([Website](http://wssspe.researchcomputing.org.uk/wssspe6-1/)
 - **Co-Chair**, Workshop "Research Software Engineering und Digital Humanities. Reflexion, Kartierung, Organisation." Digital Humanities im deutschsprachigen Raum Konferenz 2018, University of Cologne, Cologne, Germany, 27 February 2018. ([Website](https://dh-rse.github.io/dhd-workshop-2018/), [Abstract in Conference book of abstracts](http://dhd2018.uni-koeln.de/wp-content/uploads/boa-DHd2018-web-ISBN.pdf))
 - **Program Chair and Co-organizer**, "Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE5.1)", University of Manchester, Manchester, UK, 6 September 2017. ([Website](http://wssspe.researchcomputing.org.uk/wssspe5-1/), [Proceedings](https://doi.org/10.6084/m9.figshare.c.3869782))
 
-### Others
+### Working groups
 
+- **Member**, "FORCE11 Software Citation Implementation Working Group". ([Website](https://www.force11.org/group/software-citation-implementation-working-group))
 - **Co-Convenor**, *Digital Humanities im deutschsprachigen Raum* Working Group "Research Software Engineering in den Digital Humanities (DH-RSE)". ([Website](https://dh-rse.github.io/))
 
 ## Grants
 
-I have received a *non-competitive* travel award for [WSSSPE4](http://wssspe.researchcomputing.org.uk/wssspe4/) (2016, Manchester, UK; US$ 1,000). I have also won *competitive* travel stipends for [DHd 2017](http://www.dhd2017.ch) (2017, Bern, Switzerland; CHF 700) and [DHd 2018](http://dhd2018.uni-koeln.de/) (2018, Cologne, Germany; EUR 400).
+I have received a *non-competitive* travel award for [WSSSPE4](http://wssspe.researchcomputing.org.uk/wssspe4/) (2016, Manchester, UK; US$ 1,000), and the following *competitive* travel grants:
+- [DHd 2017](http://www.dhd2017.ch) (2017, Bern, Switzerland; CHF 700) 
+- [DHd 2018](http://dhd2018.uni-koeln.de/) (2018, Cologne, Germany; EUR 400)
+
+I also receive funding assistance from the Software Sustainability Institute. 
+The Software Sustainability Institute is supported by the EPSRC, BBSRC and ESRC Grant EP/N006410/1. (2018-2019, UK; undisclosed)
+
+## Professional Organizations
+
+- **IEEE**: member 2018-present
+- **DHd**: member 2018-present
 
 ## CV  
 
