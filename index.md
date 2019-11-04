@@ -12,7 +12,7 @@ weight: 1
 *Phone*: +49-(0)30-2093-9726  
 *Postal address*: Unter den Linden 6, 10099 Berlin, Germany' %}
 
-I am a [Research Software Engineer](http://www.rse.ac.uk), working in Linguistics and Digital Humanities. My [ORCiD](https://orcid.org) is [0000-0003-4925-7248](http://orcid.org/0000-0003-4925-7248).
+I am a [Research Software Engineer](http://www.rse.ac.uk), working in Linguistics and the Digital Humanities. My [ORCiD](https://orcid.org) is [0000-0003-4925-7248](http://orcid.org/0000-0003-4925-7248). I am also a PhD candidate in Software Engineering at the [German Aerospace Center](https://www.dlr.de/sc/desktopdefault.aspx/tabid-1192/1635_read-37013/start-d/sortby-lastname/) & [Department of Computer Science at Humboldt-Universität zu Berlin](https://www.informatik.hu-berlin.de/en/standardseite-en?set_language=en).
 
 I currently work as a researcher in the linguistic research project [MelaTAMP](https://hu.berlin/melatamp) in the [Department of German Studies and Linguistics](https://www.linguistik.hu-berlin.de/en), at [Humboldt-Universität zu Berlin](https://www.hu-berlin.de/en), where I create software that enables [contrastive research](https://wikis.hu-berlin.de/melatamp/Main_page) on the TAMP (tense, aspect, modality, polarity) systems of seven Oceanic languages.
 
