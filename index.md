@@ -90,6 +90,6 @@ The Software Sustainability Institute is supported by the EPSRC, BBSRC and ESRC 
 |2001-2004|	**Journal Publishing Assistant**, Blackwell Verlag GmbH, Wiley-Blackwell (Berlin)|
 |||
 |***Education***||
-|2010|	**Magister Artium**, Freie Universität Berlin|
+|2010|	**Magister Artium (MA)**, Freie Universität Berlin|
 |2005-2010|	English (major), Linguistics, German (minor), Freie Universität Berlin|
 |2000-2004|	English, German (Teaching Certificate), Freie Universität Berlin|
