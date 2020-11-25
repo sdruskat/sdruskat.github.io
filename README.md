@@ -1,3 +1,5 @@
 # Personal homepage of Stephan Druskat
 
-Develop in branch `src` and commit, Travis will build the site.
+The site is currently down for maintenance. I hope to have it back up soon. Thanks for your patience.
+
+Stephan
