@@ -15,3 +15,5 @@ deploy:
   edge: true # opt in to dpl v2
   target_branch: master
   local_dir: _site
+  on:
+    branch: src
