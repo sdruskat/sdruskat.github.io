@@ -19,7 +19,7 @@ A comprehensive list of publications is available on [my <i class="fab fa-fw fa-
 
 ### Conference papers
 
-- T. Vogel, <u>S. Druskat</u>, M. Scheidgen, C. Draxl, and L. Grunske, "**Challenges for Verifying and Validating Scientific Software in Computational Materials Science**," in International Workshop on Software Engineering for Science, 2019, pp. 25–32, doi: [10.1109/SE4Science.2019.00010](https://doi.org/10.1109/SE4Science.2019.00010). 
+- T. Vogel, <u>S. Druskat</u>, M. Scheidgen, C. Draxl, and L. Grunske, "**Challenges for Verifying and Validating Scientific Software in Computational Materials Science**," in International Workshop on Software Engineering for Science, 2019, pp. 25–32, doi: [10.1109/SE4Science.2019.00010](https://doi.org/10.1109/SE4Science.2019.00010).
 
 ### Reports
 
@@ -29,6 +29,10 @@ A comprehensive list of publications is available on [my <i class="fab fa-fw fa-
 
 - N. P. Chue Hong, A. Allen, Gonzalez-Beltran, A. de Waard, A. M. Smith, C. Robinson, C. Jones, D. Bouquin, D. S. Katz, D. Kennedy, G. Ryder, J. Hausman, L. Hwang, M. B. Jones, M. Harrison, M. Crosas, M. Wu, P. Löwe, R. Haines, S. Edmunds, S. Stall, S. Swaminathan, <u>S. Druskat</u>, T. Crick, T. Morrell, and T. Pollard, "**Software Citation Checklist for Developers**," Zenodo, FORCE11 Software Citation Implementation Working Group Report, Oct. 2019, doi: [10.5281/zenodo.3482769](https://doi.org/10.5281/zenodo.3482769).
 
-### Formats
+### Specifications
 
 - <u>S. Druskat</u>, N. P. Chue Hong, R. Haines, and J. Baker, "**Citation File Format (CFF) - Specifications**." 29-Aug-2018, doi: [10.5281/zenodo.1003149](https://doi.org/10.5281/zenodo.1003149).
+
+### Edited volumes
+
+- N. Chue Hong, <u>S. Druskat</u>, R. Haines, C. Jay, D. S. Katz, and S. Sufi, "**Proceedings of the Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE5.1)**," Sep. 2017, doi: [10.6084/m9.figshare.c.3869782.v3](https://doi.org/10.6084/m9.figshare.c.3869782.v3).
