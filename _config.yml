@@ -133,6 +133,7 @@ include:
   - _pages
   - browserconfig.xml
   - CNAME
+  - favicon.ico
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
