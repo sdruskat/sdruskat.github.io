@@ -131,6 +131,8 @@ footer:
 include:
   - .htaccess
   - _pages
+  - browserconfig.xml
+  - CNAME
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
