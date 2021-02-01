@@ -6,6 +6,7 @@ permalink: "/presentations/"
 ---
 
 A comprehensive list of presentations is available on [my <i class="fab fa-fw fa-orcid"></i> ORCID page](https://orcid.org/0000-0003-4925-7248).
+{: .notice--info}
 
 ## Keynotes
 
