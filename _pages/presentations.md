@@ -6,12 +6,15 @@ permalink: "/presentations/"
 ---
 
 A comprehensive list of presentations is available on [my <i class="fab fa-fw fa-orcid"></i> ORCID page](https://orcid.org/0000-0003-4925-7248).
+{: .notice--info}
 
 ## Keynotes
 
 S. Druskat, "**Dare to be mair than just FAIR! - FAIR PLAY to research software, courtesy of RSEs**," FAIR Software session, National eScience Symposium 2019, Johan Cruijff ArenA, Amsterdam, The Netherlands, 2019-11-21, doi: [10.6084/m9.figshare.10565717.v1](https://doi.org/10.6084/M9.FIGSHARE.10565717.V1).
 
 ## Invited talks
+
+S. Druskat and S. Harriet, "**Good Practices for Research Software Documentation**," IDEAS Productivity: Best Practices for HPC Software Developers webinar series, Exascale Computing Project, online, 2021-02-10, doi: [10.5281/zenodo.4560770](https://doi.org/10.5281/zenodo.4560770).
 
 S. Druskat, "**An environment for sustainable research software in Germany and beyond**," Remote RSE Leaders Meeting, 2020-06-19, doi: [10.5281/zenodo.3901188](https://doi.org/10.5281/zenodo.3901188).
 
