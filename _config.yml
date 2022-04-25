@@ -98,7 +98,7 @@ author:
                         [**Research Software Engineer (RSE)**](https://de-rse.org)<br/>
                         ([Hexatomic research project](https://hexatomic.github.io))
   location         : "Berlin, Germany"
-  email            : "mail@sdruskat.net"
+  email            : "stephan.druskat@dlr.de"
   links:
     - label: "ORCID"
       icon: "fab fa-fw fa-orcid"
@@ -118,7 +118,7 @@ footer:
       url: "https://orcid.org/0000-0003-4925-7248"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:mail@sdruskat.net"
+      url: "mailto:stephan.druskat@dlr.de"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/stdruskat"
