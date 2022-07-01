@@ -92,11 +92,9 @@ author:
   name             : "Stephan Druskat"
   avatar           : "/assets/images/portrait.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : > 
-                        **Software Engineering Researcher**<br/>
+                        **Doctoral researcher (computer science)**<br/>
                         ([German Aerospace Center (DLR)](https://www.dlr.de/sc/en/),<br/>
-                        [Humboldt-Universität zu Berlin](https://www.informatik.hu-berlin.de/en/))<br/><br/>
-                        [**Research Software Engineer (RSE)**](https://de-rse.org)<br/>
-                        ([Hexatomic research project](https://hexatomic.github.io))
+                        [Humboldt-Universität zu Berlin](https://www.informatik.hu-berlin.de/en/))
   location         : "Berlin, Germany"
   email            : "stephan.druskat@dlr.de"
   links:
