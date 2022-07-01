@@ -38,7 +38,7 @@ toc: true
 
 ### Specifications
 
-- <u>S. Druskat</u>, N. P. Chue Hong, R. Haines, and J. Baker, "**Citation File Format 1.2.0**." 2021-08-09, doi: [10.5281/zenodo.5171937](https://doi.org/10.5281/zenodo.5171937).
+- <u>S. Druskat</u>, J. H. Spaaks, N. P. Chue Hong, R. Haines, J. Baker, S. Bliven, E. Willighagen, D. Pérez-Suárez, and A. Konovalov, "**Citation File Format 1.2.0**." 2021-08-09, doi: [10.5281/zenodo.5171937](https://doi.org/10.5281/zenodo.5171937).
 
 ### Edited volumes
 
