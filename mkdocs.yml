@@ -1,0 +1,72 @@
+# Basics
+site_name: Stephan Druskat
+copyright: Copyright &copy; 2016 - 2023 Stephan Druskat
+
+# Theme config
+theme: 
+  name: material
+  logo: assets/images/portrait-round.png
+  favicon: assets/images/favicon.ico
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+      primary: teal
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+      primary: teal
+
+  features:
+    - search.suggest
+    - search.highlight
+
+# Navigation
+nav:
+  - About me: index.md
+  - Projects: projects.md
+  - Publications: publications.md
+  - Activities: activities.md
+  - Grants & awards: grants-awards.md
+  - Contact: contact.md
+
+# Plugins
+plugins:
+  - search
+  - glightbox
+  # - bibtex:
+  #     bib_file: "https://api.zotero.org/users/sdruskat/publications/items?format=bibtex"
+  #     csl_file: "https://raw.githubusercontent.com/citation-style-language/styles/dbb9e22f10b22c0d90cb9321ce991f1b1e8a7122/ieee.csl"
+
+# Footer extras
+extra:
+  social:
+    - icon: material/mastodon 
+      link: https://scholar.social/@sdruskat
+      name: Stephan on scholar.social
+    - icon: material/github
+      link: https://github.com/sdruskat
+      name: Stephan on GitHub
+
+markdown_extensions:
+  - attr_list
+
+  - footnotes
+
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
