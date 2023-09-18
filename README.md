@@ -1,3 +1,5 @@
 # Personal homepage of Stephan Druskat
 
-Develop in branch `src` and commit, Travis will build the site.
+Built with [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
+
+The site is built in CI on pushes to `main`, and deployed to `gh-pages`.
