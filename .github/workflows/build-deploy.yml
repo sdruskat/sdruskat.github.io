@@ -3,7 +3,7 @@ name: Build and deploy page
 on:
   push:
     branches:
-      - src
+      - main
 permissions:
   contents: write
 jobs:
