@@ -30,6 +30,8 @@ theme:
     - search.suggest
     - search.highlight
 
+  custom_dir: overrides
+
 # Navigation
 nav:
   - About me: index.md
@@ -56,6 +58,10 @@ extra:
     - icon: material/github
       link: https://github.com/sdruskat
       name: Stephan on GitHub
+  
+  analytics:
+    provider: custom
+    property: 
 
 markdown_extensions:
   - attr_list
