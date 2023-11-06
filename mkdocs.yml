@@ -53,7 +53,7 @@ plugins:
 extra:
   social:
     - icon: material/mastodon 
-      link: https://scholar.social/@sdruskat
+      link: https://fosstodon.org/@sdruskat
       name: Stephan on scholar.social
     - icon: material/github
       link: https://github.com/sdruskat
