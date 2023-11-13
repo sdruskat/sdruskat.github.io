@@ -1,7 +1,7 @@
 - since 2017: [**Citation File Format**](https://citation-file-format.github.io/) -
-A human- and machine-readable file format for software citation metadata
+A human- and machine-readable file format for software citation metadata (*Inventor, co-lead, chair of the Steering Committee*)
 - 2021-2023: [**HERMES**](https://software-metadata.pub/) -
-Automating software publication with rich metadata via continuous integration
+Automating software publication with rich metadata via continuous integration (*PI*)
 
 ### Past projects
 

@@ -1,6 +1,8 @@
 - *Chair*, **[ReSA](https://www.researchsoft.org/) Task Force "Software Authorship & Contribution"** (since 2023)
+- Co-founder & member, **[Gesellschaft für Informatik (German Informatics Society) SIG "Research Software Engineering"](https://fg-rse.gi.de/)** (since 2023)
 - **[The Carpentries](https://carpentries.org/) Certified Instructor** (since 2019) -  
 teaching researchers basics of research software engineering
+
 
 ### Past activities
 
