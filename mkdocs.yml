@@ -29,6 +29,7 @@ theme:
   features:
     - search.suggest
     - search.highlight
+    - navigation.indexes
 
   custom_dir: overrides
 
@@ -40,14 +41,28 @@ nav:
   - Activities: activities.md
   - Grants & awards: grants-awards.md
   - Contact: contact.md
+  - Blog: 
+    - Home: blog/index.md
+
 
 # Plugins
 plugins:
   - search
   - glightbox
-  # - bibtex:
-  #     bib_file: "https://api.zotero.org/users/sdruskat/publications/items?format=bibtex"
-  #     csl_file: "https://raw.githubusercontent.com/citation-style-language/styles/dbb9e22f10b22c0d90cb9321ce991f1b1e8a7122/ieee.csl"
+  - blog:
+      # archive: false
+      # categories: false
+      blog_toc: true
+      categories_allowed:
+        - "research software"
+  - rss:
+      match_path: blog/posts/.* 
+      date_from_meta:
+        as_creation: date
+      categories:
+        - categories
+        - tags
+  - social
 
 # Footer extras
 extra:
@@ -69,8 +84,8 @@ markdown_extensions:
   - footnotes
 
   - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - pymdownx.critic
   - pymdownx.caret
   - pymdownx.keys
