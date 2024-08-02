@@ -2,9 +2,13 @@
 
 - {==S. Druskat==}, O. Bertuch, and A. Struck, "Towards Research Software-ready Libraries: Forschungssoftware in Bibliotheken," ABI Technik, vol. 43, no. 3, pp. 168–178, Aug. **2023**, doi: [10.1515/abitech-2023-0031](https://doi.org/10.1515/abitech-2023-0031).
 - {==S. Druskat==}, T. Krause, C. Lachenmaier, and B. Bunzeck, "Hexatomic: An extensible, OS-independent platform fordeep multi-layer linguistic annotation of corpora," JOSS, vol. 8, no. 86, p. 4825, Jun. **2023**, doi: [10.21105/joss.04825](https://doi.org/10.21105/joss.04825).
+- A.-L. Lamprecht, C. Martinez-Ortiz, M. Barker, S. L. Bartholomew, J. Barton, N. C. Hong, J. Cohen, {==S. Druskat==}, J. Forest, J.-N. Grad, D. S. Katz, R. Richardson, R. Rosca, D. Schulte, A. Struck, and M. Weinzierl, "What Do We (Not) Know About Research Software Engineering?," Journal of Open Research Software, vol. 10, p. 11, Dec. **2022**, doi: [10.5334/jors.384](https://doi.org/10.5334/jors.384).
 - H. Anzt, F. Bach, {==S. Druskat==} et al., "An environment for sustainable research software in Germany and beyond: current state, open challenges, and call for action," F1000Res, vol. 9, p. 295, Jan. **2021**, doi: [10.12688/f1000research.23224.2](https://doi.org/10.12688/f1000research.23224.2).
 - {==S. Druskat==}, "Software and Dependencies in Research Citation Graphs," Computing in Science & Engineering, pp. 1–14, Nov. **2019**, doi: [10.1109/MCSE.2019.2952840](https://doi.org/10.1109/MCSE.2019.2952840).
 - D. S. Katz, {==S. Druskat==}, R. Haines, C. Jay, and A. Struck, "The State of Sustainable Research Software: Learning from the Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE5.1)," Journal of Open Research Software, vol. 7, no. 1, p. 11, Apr. **2019**, doi: [10.5334/jors.242](https://doi.org/10.5334/jors.242).
+
+
+
 
 
 ## Conference publications
