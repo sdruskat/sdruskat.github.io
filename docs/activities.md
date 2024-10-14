@@ -1,5 +1,5 @@
 - *Chair*, **[ReSA](https://www.researchsoft.org/) Task Force "Software Authorship & Contribution"** (since 2023)
-- *Co-founder & member*, **[Gesellschaft für Informatik (German Informatics Society)](https://gi.de/)** **[SIG "Research Software Engineering"](https://fg-rse.gi.de/)** (since 2023)
+- *Co-founder & member*, **[Gesellschaft für Informatik (German Informatics Society)](https://gi.de/) & [de-RSE - Society for Research Software](https://de-rse.org)** **[SIG "Research Software Engineering"](https://fg-rse.gi.de/)** (since 2023)
 - **[The Carpentries](https://carpentries.org/) Certified Instructor** (since 2019) -  
 teaching researchers basics of research software engineering
 
@@ -11,8 +11,13 @@ teaching researchers basics of research software engineering
 - Co-founder & delegate for Germany, **[International Council of RSE Associations](https://researchsoftware.org/council.html)** (2020-2021)
 - Co-convener, [**Research Software Engineering Working Group**](https://dh-rse.github.io), German Association for Digital Humanities
 
+<!--## Editing
+
+- [Computing in Science & Engineering (CiSE)](https://www.computer.org/csdl/magazine/cs/2025/02), Special Issue "Research Software Engineering: Discovering and Bridging Knowledge Gaps" (editors: S. Druskat, D. S. Katz, ) v.22(2), IEEE, March-April 2020. -->
+
 ## Community service
 
+- *Organizer*, Dagstuhl Seminar 24161 "Research Software Engineering: Bridging Knowledge Gaps", Schloss Dagstuhl, 14-19 April 2024. ([Website](https://dagstuhl.de/24161), [Report](https://doi.org/10.4230/DagRep.14.4.42))
 - *Steering Committee*, "Software Sustainability Institute Collaborations Workshop", online, 04-07 April 2022. ([Website](https://software.ac.uk/cw22))
 - *Programme committee*, "Nordic-RSE conference", 2021. ([Website](https://nordic-rse.org/conference/)) 
 - *General Chair*, "2nd International RSE Leaders Workshop 2020", online, 15-16+30 September 2020. ([Website](https://researchsoftware.org/2020-workshop.html))
@@ -27,3 +32,4 @@ teaching researchers basics of research software engineering
 - [**de-RSE - Society for Research Software**](https://de-rse.org/en/), *member since 2018*
 - [**Society for Research Software Engineering**](https://society-rse.org), *member since 2020*
 - [**Gesellschaft für Informatik**](https://gi.de), *member since 2019*
+
