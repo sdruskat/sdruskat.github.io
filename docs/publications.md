@@ -21,7 +21,7 @@
 
 ## Book chapters
 
-- A. Struck, O. Bertuch, and {==S. Druskat==}, "Forschungssoftware," in *Praxishandbuch Bibliotheksmanagement*, ed.: J. Johannsen, B. Mittermaier, H. Schäffler, K. Söllner, De Gruyter Saur, **2025**, ISBN: [9783111046341](https://www.degruyter.com/document/isbn/9783111046341/html?lang=en).
+- A. Struck, O. Bertuch, and {==S. Druskat==}, "5.8 Forschungssoftware," in *Praxishandbuch Bibliotheksmanagement*, J. Johannsen, B. Mittermaier, H. Schäffler, and K. Söllner, Eds., Berlin, Boston: De Gruyter Saur, 2025, pp. 433–454. doi: [10.1515/9783111046341-027](https://doi.org/10.1515/9783111046341-027).
 
 
 ## Reports
