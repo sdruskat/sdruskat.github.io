@@ -1,3 +1,10 @@
+These are selected publications.
+For more, see the following services
+
+- [dblp](https://dblp.org/pid/154/4420.html)
+- [ORCiD](https://orcid.org/0000-0003-4925-7248#works)
+- [Google Scholar](https://scholar.google.com/citations?user=UIqaMjAAAAAJ)
+
 ## Journal articles
 
 - {==S. Druskat==}, O. Bertuch, and A. Struck, "Towards Research Software-ready Libraries: Forschungssoftware in Bibliotheken," ABI Technik, vol. 43, no. 3, pp. 168–178, Aug. **2023**, doi: [10.1515/abitech-2023-0031](https://doi.org/10.1515/abitech-2023-0031).
