@@ -15,6 +15,7 @@ In the [past](projects.md/#past-projects) I have worked as a [Research Software 
 - Software metadata
 - Empirical software engineering
 - Evidence-based software engineering
+- Organizational software intelligence
 
 For my **PhD**, I'm developing a way to measure the impact of dependencies on research software, 
 to enable transitive credit and make [hidden but important research dependencies](https://xkcd.com/2347/) more visible.
