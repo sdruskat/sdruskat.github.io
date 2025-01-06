@@ -2,8 +2,8 @@
 
 I define **Integrated Systemic Research Software Intelligence (ISRSI)** as a software engineering research
 paradigm that combines software engineering methods, machine learning and artificial intelligence
-to provide systemic insights into sets of software projects. It enables system-level software intelli-
-gence that supports governance, decision-making, strategical planning, etc., for research software
+to provide systemic insights into sets of software projects. It enables system-level software intelligence 
+that supports governance, decision-making, strategical planning, etc., for research software
 ecosystems or organizations and their units.
 
 To examine the term “Integrated Systemic Research Software Intelligence” more closely:
