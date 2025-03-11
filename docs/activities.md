@@ -15,6 +15,23 @@ teaching researchers basics of research software engineering
 
 - [Computing in Science & Engineering (CiSE)](https://www.computer.org/csdl/magazine/cs/2025/02), Special Issue "Research Software Engineering: Discovering and Bridging Knowledge Gaps" (editors: S. Druskat, D. S. Katz, ) v.22(2), IEEE, March-April 2020. -->
 
+## Advisorship
+
+- Kevin Jahrens, M.Sc. Applied Computer Science (January 2025),  
+Wismar University of Applied Sciences:  
+[**"Identifikation und Vergleich von Autorenangaben zu Software zwischen verschiedenen Datenquellen."**](https://elib.dlr.de/212886/)  
+\[*Identification and comparison of author information between different data sources.*\]  
+(co-advised with [Frank Krüger](https://fiw.hs-wismar.de/bereiche/eui/personen-gremien/prof-dr-ing-frank-krueger/))
+
+## Reviewership
+
+- [Journal of Open Research Software](https://openresearchsoftware.metajnl.com/)
+- [International Conference on Evaluation and Assessment in Software Engineering (EASE)](https://conf.researchr.org/series/ease)
+- Software Engineering and Advanced Applications (SEAA)
+<!-- - RSECon
+- deRSE
+- DHd -->
+
 ## Community service
 
 - *Organizer*, Dagstuhl Seminar 24161 "Research Software Engineering: Bridging Knowledge Gaps", Schloss Dagstuhl, 14-19 April 2024. ([Website](https://dagstuhl.de/24161), [Report](https://doi.org/10.4230/DagRep.14.4.42))
