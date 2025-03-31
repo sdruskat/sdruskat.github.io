@@ -7,6 +7,7 @@ For more, see the following services
 
 ## Journal articles
 
+- W. Hasselbring, {==S. Druskat==}, J. Bernoth, P. Betker, M. Felderer, S. Ferenz, B. Hermann, A.-L. Lamprecht, J. Linxweiler, A. Prat, B. Rumpe, K. Schoening-Stierand, and S. Yang, "^^Multi-Dimensional Research Software Categorization^^," Computing in Science & Engineering, pp. 1–10, **2025**, doi: [10.1109/MCSE.2025.3555023](10.1109/MCSE.2025.3555023).
 - S. Kernchen, M. Meinel, {==S. Druskat==}, M. Fritzsche, D. Pape, and O. Bertuch, "^^Extending and applying automated HERMES software publication workflows^^,"  Electronic Communications of the EASST, vol. 83 (2025): deRSE24 - Selected Contributions of the 4th Conference for Research Software Engineering in Germany, Feb. **2025**, doi: [10.14279/eceasst.v83.2624](https://doi.org/10.14279/eceasst.v83.2624).
 - {==S. Druskat==}, O. Bertuch, and A. Struck, "^^Towards Research Software-ready Libraries: Forschungssoftware in Bibliotheken^^,"  ABI Technik, vol. 43, no. 3, pp. 168–178, Aug. **2023**, doi: [10.1515/abitech-2023-0031](https://doi.org/10.1515/abitech-2023-0031).
 - {==S. Druskat==}, T. Krause, C. Lachenmaier, and B. Bunzeck, "^^Hexatomic: An extensible, OS-independent platform fordeep multi-layer linguistic annotation of corpora^^,"  JOSS, vol. 8, no. 86, p. 4825, Jun. **2023**, doi: [10.21105/joss.04825](https://doi.org/10.21105/joss.04825).
