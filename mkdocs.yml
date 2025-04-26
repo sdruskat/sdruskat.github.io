@@ -53,8 +53,8 @@ plugins:
 extra:
   social:
     - icon: material/mastodon 
-      link: https://fediscience.org/@sdruskat?rel="me"
-      name: Stephan on scholar.social
+      link: https://fediscience.org/@sdruskat
+      name: Stephan on fediscience.org
     - icon: material/github
       link: https://github.com/sdruskat
       name: Stephan on GitHub
