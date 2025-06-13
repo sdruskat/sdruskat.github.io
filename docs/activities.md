@@ -1,3 +1,4 @@
+- *Member*, **[ReSA](https://www.researchsoft.org/) Task Force "Actionable FAIR4RS"** (since 2024)
 - *Chair*, **[ReSA](https://www.researchsoft.org/) Task Force "Software Authorship & Contribution"** (since 2023)
 - *Co-founder & member*, **[Gesellschaft für Informatik (German Informatics Society)](https://gi.de/) & [de-RSE - Society for Research Software](https://de-rse.org)** **[SIG "Research Software Engineering"](https://fg-rse.gi.de/)** (since 2023)
 - **[The Carpentries](https://carpentries.org/) Certified Instructor** (since 2019) -  
@@ -28,6 +29,7 @@ Wismar University of Applied Sciences:
 - [Journal of Open Research Software](https://openresearchsoftware.metajnl.com/)
 - [International Conference on Evaluation and Assessment in Software Engineering (EASE)](https://conf.researchr.org/series/ease)
 - Software Engineering and Advanced Applications (SEAA)
+- [Electronic Communications of the EASST](https://eceasst.org)
 <!-- - RSECon
 - deRSE
 - DHd -->
