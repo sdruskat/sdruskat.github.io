@@ -21,7 +21,7 @@ teaching researchers basics of research software engineering
 - Kevin Jahrens, M.Sc. Applied Computer Science (January 2025),  
 Wismar University of Applied Sciences:  
 [**"Identifikation und Vergleich von Autorenangaben zu Software zwischen verschiedenen Datenquellen."**](https://elib.dlr.de/212886/)  
-\[*Identification and comparison of author information between different data sources.*\]  
+\[*Identification and comparison of author information for software between different data sources.*\]  
 (co-advised with [Frank Krüger](https://fiw.hs-wismar.de/bereiche/eui/personen-gremien/prof-dr-ing-frank-krueger/))
 
 ## Reviewership
