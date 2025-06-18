@@ -22,7 +22,7 @@ to enable transitive credit and make [hidden but important research dependencies
 
 ## Education
 
-I have received my **Magister Artium (MA)** in English Philology (major), Modern German Literature, and General and German Linguistics (minor) from the [Free University Berlin](https://www.fu-berlin.de/en/) in 2010.
+I received my **Magister Artium (MA)** in English Philology (major), Modern German Literature, and General and German Linguistics (minor) from the [Free University Berlin](https://www.fu-berlin.de/en/) in 2010.
 
 ## Personal
 
