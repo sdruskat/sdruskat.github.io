@@ -39,6 +39,7 @@ For more, see the following services
 
 ## Reports
 
+- S. M. Allen, N. Chue Hong, {==S. Druskat==}, T. Hodges, D. S. Katz, J. Linxweiler, F. Löffler, L. Grunske, H. Seibold, J. P. Thiele, and S. Wittke, "^^Ten simple rules for PIs to integrate Research Software Engineering into their research group^^," Jun **2025**, doi: [10.48550/arXiv.2506.20217](https://doi.org/10.48550/arXiv.2506.20217).  :fontawesome-brands-creative-commons:
 - A. Nesbitt, B. Veytsman, D. Mietchen, E. M. Brown, J. Howison, J. F. Pimentel, L. Hèbert-Dufresne, and {==S. Druskat==}, "^^Biomedical Open Source Software: Crucial Packages and Hidden Heroes^^,"  Dec **2024**, doi: [10.48550/arXiv.2404.06672](https://doi.org/10.48550/arXiv.2404.06672). :fontawesome-brands-creative-commons:
 - {==S. Druskat==}, L. Grunske, C. Jay, and D. S. Katz, "^^Research Software Engineering: Bridging Knowledge Gaps (Dagstuhl Seminar 24161)^^", in *Dagstuhl Reports*, 14:4, pp. 42-53, Schloss Dagstuhl – Leibniz-Zentrum für Informatik, Oct **2024**, doi: [10.4230/DagRep.14.4.42](https://doi.org/10.4230/DagRep.14.4.42).
 - {==S. Druskat==}, O. Bertuch, G. Juckeland, O. Knodel, and T. Schlauch, "^^Software publications with rich metadata: state of the art, automated workflows and HERMES concept^^,"  arXiv, Jan. **2022**, doi: [10.48550/arXiv.2201.09015](https://doi.org/10.48550/arXiv.2201.09015). :fontawesome-brands-creative-commons:
