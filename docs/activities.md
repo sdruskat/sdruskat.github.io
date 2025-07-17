@@ -16,20 +16,21 @@ teaching researchers basics of research software engineering
 
 - [Computing in Science & Engineering (CiSE)](https://www.computer.org/csdl/magazine/cs/2025/02), Special Issue "Research Software Engineering: Discovering and Bridging Knowledge Gaps" (editors: S. Druskat, D. S. Katz, ) v.22(2), IEEE, March-April 2020. -->
 
-## Advisorship
+## Supervision
 
 - Kevin Jahrens, M.Sc. Applied Computer Science (January 2025),  
 Wismar University of Applied Sciences:  
 [**"Identifikation und Vergleich von Autorenangaben zu Software zwischen verschiedenen Datenquellen."**](https://elib.dlr.de/212886/)  
 \[*Identification and comparison of author information for software between different data sources.*\]  
-(co-advised with [Frank Krüger](https://fiw.hs-wismar.de/bereiche/eui/personen-gremien/prof-dr-ing-frank-krueger/))
+(co-supervised with [Frank Krüger](https://fiw.hs-wismar.de/bereiche/eui/personen-gremien/prof-dr-ing-frank-krueger/))
 
-## Reviewership
+## Peer review
 
-- [Journal of Open Research Software](https://openresearchsoftware.metajnl.com/)
-- [International Conference on Evaluation and Assessment in Software Engineering (EASE)](https://conf.researchr.org/series/ease)
-- Software Engineering and Advanced Applications (SEAA)
 - [Electronic Communications of the EASST](https://eceasst.org)
+- [International Conference on Evaluation and Assessment in Software Engineering (EASE)](https://conf.researchr.org/series/ease)
+- [Journal of Open Research Software](https://openresearchsoftware.metajnl.com/)
+- [PLOS Computational Biology](https://journals.plos.org/ploscompbiol/)
+- Software Engineering and Advanced Applications (SEAA)
 <!-- - RSECon
 - deRSE
 - DHd -->
