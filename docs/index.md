@@ -13,6 +13,7 @@ In the [past](projects.md/#past-projects) I have worked as a [Research Software 
 - Research software sustainability
 - Research software citation & publication
 - Software metadata
+- DevSecOps
 - Empirical software engineering
 - Evidence-based software engineering
 - Integrated systemic research software intelligence ([ISRSI](isrsi.md))
