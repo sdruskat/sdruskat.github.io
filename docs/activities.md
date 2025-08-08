@@ -12,9 +12,9 @@ teaching researchers basics of research software engineering
 - Co-founder & delegate for Germany, **[International Council of RSE Associations](https://researchsoftware.org/council.html)** (2020-2021)
 - Co-convener, [**Research Software Engineering Working Group**](https://dh-rse.github.io), German Association for Digital Humanities
 
-<!--## Editing
+## Editing
 
-- [Computing in Science & Engineering (CiSE)](https://www.computer.org/csdl/magazine/cs/2025/02), Special Issue "Research Software Engineering: Discovering and Bridging Knowledge Gaps" (editors: S. Druskat, D. S. Katz, ) v.22(2), IEEE, March-April 2020. -->
+- [Computing in Science & Engineering (CiSE)](https://www.computer.org/csdl/magazine/cs/2025/02), Special Issue "^^Research Software Engineering: Discovering and Bridging Knowledge Gaps^^," {==S. Druskat==}, L. Grunske, C. Jay, and D. S. Katz, Eds., vol. 27(2), IEEE, April-June 2025.
 
 ## Supervision
 
