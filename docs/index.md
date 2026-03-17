@@ -2,24 +2,30 @@
 
 ![Portrait photo of Stephan Druskat.](assets/images/portrait-round.png){ width="200"; align="left"; }
 
-I am a **researcher** in computer science at the [Institute of Software Technology](https://www.dlr.de/sc/en/) of the [German Aerospace Center (DLR)](https://www.dlr.de/EN/Home/home_node.html) and the [Department of Computer Science](https://www.informatik.hu-berlin.de/en/), [Humboldt-Universität zu Berlin](https://www.hu-berlin.de/en), and a **Fellow of the [Software Sustainability Institute (SSI)](https://software.ac.uk/)**.
+I am a computer science **researcher** in software engineering, and a **Fellow of the [Software Sustainability Institute (SSI)](https://software.ac.uk/)**.
 
-In the [past](projects.md/#past-projects) I have worked as a [Research Software Engineer](https://de-rse.org/en/) in linguistics and the digital humanities projects, and as Managing Editor at Wiley-Blackwell.
+In my research, I focus on the *quality* and *sustainability* of **research software**
+with an emphasis on 
+software supply chains and ecosystems, 
+software metadata, 
+research software engineering methods
+and - increasingly - software security.
+I am interested in understanding and improving
+how people, practices, policies and infrastructure
+shape how software is developed, maintained, published, cited and reused
+in academic contexts and across disciplines.
+For my **PhD**, I'm developing a way to measure the impact of dependencies on research software, 
+to enable transitive credit,
+and to make [hidden but important research dependencies](https://xkcd.com/2347/) more visible.
 
 ![Figure 2 from my paper https://doi.org/10.1109/MCSE.2019.2952840, showing a citation graph that includes software versions as citable entities.](assets/images/citationgraph.png){ width="300"; align="right"; }
 
-## Research interests
+Until early 2026, I was part of the Sustainable Software Engineering Group
+at the [German Aerospace Center](https://www.dlr.de/EN/Home/home_node.html)'s
+[Institute of Software Technology](https://www.dlr.de/sc/en/).
 
-- Research software sustainability
-- Research software citation & publication
-- Software metadata
-- DevSecOps
-- Empirical software engineering
-- Evidence-based software engineering
-- Integrated systemic research software intelligence ([ISRSI](isrsi.md))
+[Before this](projects.md/#past-projects) I have worked as a [Research Software Engineer](https://de-rse.org/en/) in linguistics and digital humanities projects, and as Managing Editor at Wiley-Blackwell.
 
-For my **PhD**, I'm developing a way to measure the impact of dependencies on research software, 
-to enable transitive credit and make [hidden but important research dependencies](https://xkcd.com/2347/) more visible.
 
 ## Education
 
