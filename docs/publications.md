@@ -7,6 +7,7 @@ For more, see the following services
 
 ## Journal articles
 
+- E. M. Brown, {==S. Druskat==}, L. Hébert-Dufresne, J. Howison, D. Mietchen, A. Nesbitt, J. F. Pimentel, and B. Veytsman, "^^Biomedical open source software: Crucial packages and hidden heroes^^," PLoS Comput Biol, vol. 22, no. 5, p. e1014260, May 2026, doi: [10.1371/journal.pcbi.1014260](https://doi.org/10.1371/journal.pcbi.1014260). :fontawesome-brands-creative-commons:
 - F. Goth, R. Alves, M. Braun, L. Castro, G. Chourdakis, S. Christ, J. Cohen, {==S. Druskat==}, F. Erxleben, J.-N. Grad, M. Hagdorn, T. Hodges, G. Juckeland, D. Kempf, A. Lamprecht, J. Linxweiler, F. Löffler, M. Martone, M. Schwarzmeier, H. Seibold, J. Thiele, H. von Waldow, and S. Wittke, "^^Foundational Competencies and Responsibilities of a Research Software Engineer: Current State and Suggestions for Future Directions^^," Sept. **2025**, doi: [10.12688/f1000research.157778.2](https://doi.org/10.12688/f1000research.157778.2). :fontawesome-brands-creative-commons:
 - {==S. Druskat==}, N. U. Eisty, R. Chisholm, N. P. Chue Hong, R. C. Cocking, M. B. Cohen, M. Felderer, L. Grunske, S. A. Harris, W. Hasselbring, T. Krause, J. Linxweiler, and C. C. Venters, "^^Better Architecture, Better Software, Better Research^^,"Computing in Science & Engineering, vol. 27, no. 2, pp. 45–57, Apr. **2025**, doi: [10.1109/MCSE.2025.3573887](https://doi.org/10.1109/MCSE.2025.3573887). :fontawesome-brands-creative-commons:
 - W. Hasselbring, {==S. Druskat==}, J. Bernoth, P. Betker, M. Felderer, S. Ferenz, B. Hermann, A.-L. Lamprecht, J. Linxweiler, A. Prat, B. Rumpe, K. Schöning-Stierand, and S. Yang, "^^Multidimensional Research Software Categorization^^,"Computing in Science & Engineering, vol. 27, no. 2, pp. 59–68, Apr. **2025**, doi: [10.1109/MCSE.2025.3555023](https://doi.org/10.1109/MCSE.2025.3555023). :fontawesome-brands-creative-commons:
@@ -39,9 +40,8 @@ For more, see the following services
 - A. Struck, O. Bertuch, and {==S. Druskat==}, "^^Forschungssoftware^^,"  in *Praxishandbuch Bibliotheksmanagement*, J. Johannsen, B. Mittermaier, H. Schäffler, and K. Söllner, Eds., Berlin, Boston: De Gruyter Saur, 2025, pp. 433–454. doi: [10.1515/9783111046341-027](https://doi.org/10.1515/9783111046341-027). :fontawesome-brands-creative-commons:
 
 
-## Reports
+## Reports, preprints
 
-- E. M. Brown, {==S. Druskat==}, L. Hébert-Dufresne, J. Howison, D. Mietchen, A. Nesbitt, J. F. Pimentel, and B. Veytsman, "^^Biomedical Open Source Software: Crucial Packages and Hidden Heroes^^," Nov **2025**, doi: [10.48550/arXiv.2404.06672](https://doi.org/10.48550/arXiv.2404.06672). :fontawesome-brands-creative-commons:
 - S. M. Allen, N. Chue Hong, {==S. Druskat==}, T. Hodges, D. S. Katz, J. Linxweiler, F. Löffler, L. Grunske, H. Seibold, J. P. Thiele, and S. Wittke, "^^Ten simple rules for PIs to integrate Research Software Engineering into their research group^^," Jun **2025**, doi: [10.48550/arXiv.2506.20217](https://doi.org/10.48550/arXiv.2506.20217).  :fontawesome-brands-creative-commons:
 - {==S. Druskat==}, L. Grunske, C. Jay, and D. S. Katz, "^^Research Software Engineering: Bridging Knowledge Gaps (Dagstuhl Seminar 24161)^^", in *Dagstuhl Reports*, 14:4, pp. 42-53, Schloss Dagstuhl – Leibniz-Zentrum für Informatik, Oct **2024**, doi: [10.4230/DagRep.14.4.42](https://doi.org/10.4230/DagRep.14.4.42). :fontawesome-brands-creative-commons:
 - {==S. Druskat==}, O. Bertuch, G. Juckeland, O. Knodel, and T. Schlauch, "^^Software publications with rich metadata: state of the art, automated workflows and HERMES concept^^,"  arXiv, Jan. **2022**, doi: [10.48550/arXiv.2201.09015](https://doi.org/10.48550/arXiv.2201.09015). :fontawesome-brands-creative-commons:
