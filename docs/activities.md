@@ -26,7 +26,11 @@ Wismar University of Applied Sciences:
 
 ## Peer review
 
+Journals, funders, conferences (alphabetical order)
+
+<!-- - [Acta Crystallographica D](https://journals.iucr.org/d/)-->
 - [Electronic Communications of the EASST](https://eceasst.org)
+- [German Research Foundation (DFG)](https://dfg.de/en/)
 - [International Conference on Evaluation and Assessment in Software Engineering (EASE)](https://conf.researchr.org/series/ease)
 - [Journal of Open Research Software](https://openresearchsoftware.metajnl.com/)
 - [PLOS Computational Biology](https://journals.plos.org/ploscompbiol/)
