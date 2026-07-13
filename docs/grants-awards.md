@@ -14,8 +14,15 @@ The Software Sustainability Institute is supported by the EPSRC, BBSRC and ESRC 
 
 ## Awards
 
+### Personal awards
+
 - [**RSE Catalyst**](https://society-rse.org/rse-catalyst-awards/) (2022)
 - [**CampusSOURCE Award 2022**](https://ev.campussource.de/publikationen/csa2022/) for [Citation File Format](https://ev.campussource.de/publikationen/csa2022/gewinner.html#zweiter) (2022)
+
+### Paper awards
+
+- [**IEEE Computer Society 2025 Best Paper Award Runner-up**](https://www.computer.org/publications/2025-best-paper-award-winners) for  
+**S. Druskat**, N. U. Eisty, R. Chisholm, N. P. Chue Hong, R. C. Cocking, M. B. Cohen, M. Felderer, L. Grunske, S. A. Harris, W. Hasselbring, T. Krause, J. Linxweiler, and C. C. Venters, "^^Better Architecture, Better Software, Better Research^^," Computing in Science & Engineering, vol. 27, no. 2, pp. 45–57, Apr. 2025, doi: [10.1109/MCSE.2025.3573887](https://doi.org/10.1109/MCSE.2025.3573887).
 
 ### Nominations
 
