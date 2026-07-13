@@ -74,3 +74,6 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.tilde
+
+extra_css:
+  - stylesheets/extra.css
