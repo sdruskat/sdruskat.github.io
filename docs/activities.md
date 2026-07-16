@@ -41,17 +41,23 @@ Journals, funders, conferences (alphabetical order)
 
 ## Community service
 
-- *Program Committee*, 19th International Conference on the Quality of Information and Communications Technology, Genoa, 9-11 September 2026. ([Website](https://2026.quatic.org))
+### Chairing
+
+- *Program Chair*, "deRSE27 - 6th Conference for Research Software Engineers in Germany", Dortmund, Germany, 23-25 February 2027. ([Website](https://events.hifis.net/e/deRSE27))
 - *Organizer, Program Committee Co-Chair, Proceedings Chair*, Workshop "Software Engineering & Research Software (SERS 2026)", 48th IEEE/ACM International Conference on Software Engineering (ICSE 2026), Rio de Janeiro, 14 April 2026. ([Website](https://conf.researchr.org/home/icse-2026/sers-2026), [Proceedings](https://doi.org/10.1145/3786172))
 - *Organizer*, Dagstuhl Seminar 24161 "Research Software Engineering: Bridging Knowledge Gaps", Schloss Dagstuhl, 14-19 April 2024. ([Website](https://dagstuhl.de/24161), [Report](https://doi.org/10.4230/DagRep.14.4.42))
-- *Steering Committee*, "Software Sustainability Institute Collaborations Workshop", online, 04-07 April 2022. ([Website](https://software.ac.uk/cw22))
-- *Programme committee*, "Nordic-RSE conference", 2021. ([Website](https://nordic-rse.org/conference/)) 
+- *Program Chair*, "deRSE19 - Conference for Research Software Engineers in Germany", Potsdam, Germany, 04-06 June 2019. ([Website](https://de-rse.org/en/conf2019/))
 - *General Chair*, "2nd International RSE Leaders Workshop 2020", online, 15-16+30 September 2020. ([Website](https://researchsoftware.org/2020-workshop.html))
-- *Steering Committee & Programme Committee*, "SORSE - Series of Online Research Software Events", online, 2020. ([Website](https://sorse.github.io))
-- *Programme Chair*, "de-RSE19 - Conference for Research Software Engineers in Germany", Potsdam, Germany, 04-06 June 2019. ([Website](https://de-rse.org/en/conf2019/))
 - *Organizing Co-Chair*, "Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE6.1)", IEEE eScience 2018, Amsterdam, Netherlands, 29 October 2018. ([Website](http://wssspe.researchcomputing.org.uk/wssspe6-1/))
 - *Co-Chair*, Workshop "Research Software Engineering und Digital Humanities. Reflexion, Kartierung, Organisation." Digital Humanities im deutschsprachigen Raum Konferenz 2018, University of Cologne, Cologne, Germany, 27 February 2018. ([Website](https://dh-rse.github.io/dhd-workshop-2018/), [Abstract in Conference book of abstracts](http://dhd2018.uni-koeln.de/wp-content/uploads/boa-DHd2018-web-ISBN.pdf))
 - *General Chair*, "Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE5.1)", University of Manchester, Manchester, UK, 6 September 2017. ([Website](http://wssspe.researchcomputing.org.uk/wssspe5-1/), [Proceedings](https://doi.org/10.6084/m9.figshare.c.3869782))
+
+### Committees
+
+- *Program Committee*, "19th International Conference on the Quality of Information and Communications Technology", Genoa, 9-11 September 2026. ([Website](https://2026.quatic.org))
+- *Steering Committee*, "Software Sustainability Institute Collaborations Workshop", online, 04-07 April 2022. ([Website](https://software.ac.uk/cw22))
+- *Program committee*, "Nordic-RSE conference", 2021. ([Website](https://nordic-rse.org/conference/)) 
+- *Steering Committee & Program Committee*, "SORSE - Series of Online Research Software Events", online, 2020. ([Website](https://sorse.github.io))
 
 ## Membership
 
