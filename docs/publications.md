@@ -3,6 +3,7 @@ For more, see the following services
 
 - [dblp](https://dblp.org/pid/154/4420.html)
 - [ORCiD](https://orcid.org/0000-0003-4925-7248#works)
+- [OpenAlex](https://openalex.org/authors/a5042960112)
 - [Google Scholar](https://scholar.google.com/citations?user=UIqaMjAAAAAJ)
 
 ## Journal articles
