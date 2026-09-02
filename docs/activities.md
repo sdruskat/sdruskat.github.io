@@ -43,8 +43,9 @@ Journals, funders, conferences (alphabetical order)
 
 ### Chairing
 
+- *General Chair*, Workshop "Software Engineering and Research Software (SERS 2027)", 49th IEEE/ACM International Conference on Software Engineering (ICSE 2027), Dublin, 27 April 2027. ([Website](https://conf.researchr.org/home/icse-2027/sers-2027))
 - *Program Chair*, "deRSE27 - 6th Conference for Research Software Engineers in Germany", Dortmund, Germany, 23-25 February 2027. ([Website](https://events.hifis.net/e/deRSE27))
-- *Organizer, Program Committee Co-Chair, Proceedings Chair*, Workshop "Software Engineering & Research Software (SERS 2026)", 48th IEEE/ACM International Conference on Software Engineering (ICSE 2026), Rio de Janeiro, 14 April 2026. ([Website](https://conf.researchr.org/home/icse-2026/sers-2026), [Proceedings](https://doi.org/10.1145/3786172))
+- *Organizer, Program Committee Co-Chair, Proceedings Chair*, Workshop "Software Engineering and Research Software (SERS 2026)", 48th IEEE/ACM International Conference on Software Engineering (ICSE 2026), Rio de Janeiro, 14 April 2026. ([Website](https://conf.researchr.org/home/icse-2026/sers-2026), [Proceedings](https://doi.org/10.1145/3786172))
 - *Organizer*, Dagstuhl Seminar 24161 "Research Software Engineering: Bridging Knowledge Gaps", Schloss Dagstuhl, 14-19 April 2024. ([Website](https://dagstuhl.de/24161), [Report](https://doi.org/10.4230/DagRep.14.4.42))
 - *Program Chair*, "deRSE19 - Conference for Research Software Engineers in Germany", Potsdam, Germany, 04-06 June 2019. ([Website](https://de-rse.org/en/conf2019/))
 - *General Chair*, "2nd International RSE Leaders Workshop 2020", online, 15-16+30 September 2020. ([Website](https://researchsoftware.org/2020-workshop.html))
