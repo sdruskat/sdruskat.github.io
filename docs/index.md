@@ -25,7 +25,7 @@ Until early 2026, I was part of the Sustainable Software Engineering Group
 at the [German Aerospace Center](https://www.dlr.de/EN/Home/home_node.html)'s
 [Institute of Software Technology](https://www.dlr.de/sc/en/).
 
-[Before this](projects.md/#past-projects) I have worked as a [Research Software Engineer](https://de-rse.org/en/) in linguistics and digital humanities projects, and as Managing Editor at Wiley-Blackwell.
+[Before this](projects.md#past-projects) I have worked as a [Research Software Engineer](https://de-rse.org/en/) in linguistics and digital humanities projects, and as Managing Editor at Wiley-Blackwell.
 
 
 ## Education

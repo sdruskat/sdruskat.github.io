@@ -8,7 +8,7 @@ Successful grant proposals for which I was eligible as an official applicant pre
 
 - Incubator grant, [Code for Science & Society Digital Infrastructure Incubator](https://incubator.codeforscience.org/cohort)  
 (funding phase: 2021-2022, USA; $5,000)
-- Fellowship, [Software Sustainability Institute](https://software.ac.uk)  
+- Fellowship, [Institute for Research Software](https://software.ac.uk) (previously *Software Sustainability Institute* (SSI))  
 (funding phase: 2018-2019, UK; undisclosed);  
 The Software Sustainability Institute is supported by the EPSRC, BBSRC and ESRC Grant EP/N006410/1. 
 

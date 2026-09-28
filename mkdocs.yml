@@ -5,6 +5,7 @@ copyright: Copyright &copy; 2013 Stephan Druskat
 # Theme config
 theme: 
   name: material
+  variant: classic
   logo: assets/images/portrait-round.png
   favicon: assets/images/favicon.ico
   palette:

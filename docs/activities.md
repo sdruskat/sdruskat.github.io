@@ -1,3 +1,4 @@
+- Co-founder & Secretary, **[de-RSE - Society for Research Software](https://de-rse.org/en/)** (since 2026)
 - *Member*, **[ReSA](https://www.researchsoft.org/) Task Force "Actionable FAIR4RS"** (since 2024)
 - *Chair*, **[ReSA](https://www.researchsoft.org/) Task Force "Software Authorship & Contribution"** (since 2023)
 - *Co-founder & member*, **[Gesellschaft für Informatik (German Informatics Society)](https://gi.de/) & [de-RSE - Society for Research Software](https://de-rse.org)** **[SIG "Research Software Engineering"](https://fg-rse.gi.de/)** (since 2023)
@@ -7,7 +8,7 @@ teaching researchers basics of research software engineering
 
 ### Past activities
 
-- Co-founder & board member, **[de-RSE - Society for Research Software](https://de-rse.org/en/)** (2018-2021)
+- Co-founder & Deputy Secretary, **[de-RSE - Society for Research Software](https://de-rse.org/en/)** (2018-2021)
 - Member, [**FORCE11 Software Citation Implementation Working Group**](https://www.force11.org/group/software-citation-implementation-working-group)
 - Co-founder & delegate for Germany, **[International Council of RSE Associations](https://researchsoftware.org/council.html)** (2020-2021)
 - Co-convener, [**Research Software Engineering Working Group**](https://dh-rse.github.io), German Association for Digital Humanities
