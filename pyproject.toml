@@ -8,3 +8,6 @@ dependencies = [
     "mkdocs-glightbox>=0.4.0",
     "zensical>=0.0.65",
 ]
+
+[tool.uv]
+required-version = ">=0.12.19"
