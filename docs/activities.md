@@ -28,7 +28,7 @@ Wismar University of Applied Sciences:
 
 Journals, funders, conferences (alphabetical order)
 
-<!-- - [Acta Crystallographica D](https://journals.iucr.org/d/)-->
+- [Acta Crystallographica D](https://journals.iucr.org/d/)
 - [German Research Foundation (DFG)](https://dfg.de/en/)
 - [Electronic Communications of the EASST](https://eceasst.org)
 - [International Conference on Evaluation and Assessment in Software Engineering (EASE)](https://conf.researchr.org/series/ease)

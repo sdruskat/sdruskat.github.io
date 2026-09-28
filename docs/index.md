@@ -2,8 +2,8 @@
 
 ![Portrait photo of Stephan Druskat.](assets/images/portrait-round.png){ width="200"; align="left"; }
 
-I am a computer science **researcher** in software engineering, at the [University Library](https://www.tu-braunschweig.de/en/ub) at [Technische Universität Braunschweig](https://www.tu-braunschweig.de/en/) and the [Department of Computer Science](https://www.informatik.hu-berlin.de/en) at [Humboldt-Universität zu Berlin](https://www.hu-berlin.de/en), and a **Fellow of the [Institute for Research
-Software](https://software.ac.uk/)**.
+I am a computer science **researcher** in software engineering, at the [University Library](https://www.tu-braunschweig.de/en/ub) at [Technische Universität Braunschweig](https://www.tu-braunschweig.de/en/) and the [Department of Computer Science](https://www.informatik.hu-berlin.de/en) at [Humboldt-Universität zu Berlin](https://www.hu-berlin.de/en), a **Fellow of the [Institute for Research
+Software](https://software.ac.uk/)**, and Secretary of the [Society for Research Software (de-RSE)](https://de-rse.org/en/), which I co-founded.
 
 In my research, I focus on the *quality* and *sustainability* of **research software**
 with an emphasis on 
